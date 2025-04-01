@@ -1,4 +1,4 @@
-# Project by Aditya Mahajan
+# Project by Naman Kumar
 
 Flutter project on Fingerprint Sensor  and local pin feature
 
